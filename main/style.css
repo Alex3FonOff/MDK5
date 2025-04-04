@@ -171,3 +171,9 @@ table {
 #blue2:hover {
     background-color: #4b2114;
 }
+.nav-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+}
