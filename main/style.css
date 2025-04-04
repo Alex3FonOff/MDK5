@@ -146,3 +146,14 @@ table {
     text-align: center;
     align-items: center;
 }
+#blue2{
+    background-color: #FF6A3D;
+    height: 50px;
+    width: 600px;
+    font-size: large;
+    transition: background-color 0.3s;
+    border-radius: 10px;
+
+}
+#blue2:hover {
+    background-color: #4b2114;
